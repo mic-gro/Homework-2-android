@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="last_known_loc">My last known location</string>
+    <string name="clear_memory">Clear Memory</string>
+    <string name="xyText">X: \nY: </string>
+</resources>
